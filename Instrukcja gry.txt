@@ -1,0 +1,8 @@
+Gra ANumber(Od Add Number)(Dodaj liczbê) 
+
+Polega na zbieraniu odpowiednio losowanych co 7 sekund liczb.
+Nale¿y uzbieraæ odpowiedni¹ sumê przez okreœlony czas.
+U¿ytkownik sam wybiera odpowiednie wartoœci max. 999.
+Poruszaj siê strza³kami. Podczas gry naæiœnij ESC, aby wyjœæ.
+Aby wygraæ nale¿y zebraæ odpowiedni¹ liczbê punktów.
+Zebranie wiêkszej iloœci jest traktowane jako przegrana.
